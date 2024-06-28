@@ -1,0 +1,33 @@
+.main-one{
+    width: 100vw;
+}
+
+
+img{
+    width: 100%;
+}
+.click{
+    width: 150px;
+    height: 60px;
+    transition: 0.2s;
+}
+.click:hover{
+    background-color: #CDA274;
+    border-radius: 18px;
+}
+.Navbar{
+    width: 50%;
+    margin: auto;
+    margin-top:3rem;
+    margin-bottom: 3rem;
+    border-radius:18px;
+}
+.work{
+    width: 40%;
+}
+.images{
+    width: 100vw;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
